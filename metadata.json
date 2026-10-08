@@ -1,0 +1,6 @@
+{
+  "name": "Giáo Án AI THPT 2018",
+  "description": "Trợ lý AI soạn Kế hoạch bài dạy thông minh cho giáo viên THPT bám sát CTGDPT 2018 và Công văn 5512/BGDĐT",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
